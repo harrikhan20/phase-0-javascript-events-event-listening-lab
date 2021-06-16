@@ -5,3 +5,4 @@ input.addEventListener('click', function() {
 }); 
     }
 
+input.addingEventListener('click', clickAlert);
